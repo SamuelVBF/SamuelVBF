@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 Front-End
+- 🔭 Dev Jr.
 - 🌱 HTML, CSS, JS and Python
 - 📫 Contact me on: samuel.vbf@hotmail.com
 <div align="center">
